@@ -1,0 +1,5 @@
+.> How L1 regularization and L2 regularization prevent overfitting model ?
+
+.> How L1 regularization eliminate features for overfitting and L2 regularization shrinks the feature values
+
+akdas@cs.iiests.ac.in
